@@ -10,3 +10,4 @@ migrations_dir = "../../database/migrations"
 
 [vars]
 APP_ENV = "development"
+# Configure SUPABASE_URL and SUPER_ADMIN_SUBJECTS as Worker secrets.
