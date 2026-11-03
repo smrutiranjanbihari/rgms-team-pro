@@ -5,7 +5,7 @@ compatibility_date = "2025-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "rgms-team-pro"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "364f71c9-9099-4292-9940-af9aea2f7c24"
 migrations_dir = "../../database/migrations"
 
 [vars]
