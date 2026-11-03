@@ -1,0 +1,11 @@
+{
+  "name": "rgms-team-pro",
+  "private": true,
+  "version": "0.1.0",
+  "packageManager": "pnpm@9.0.0",
+  "scripts": {
+    "dev:web": "pnpm --filter @rgms/web dev",
+    "dev:api": "pnpm --filter @rgms/api dev",
+    "dev:mobile": "pnpm --filter @rgms/mobile start"
+  }
+}

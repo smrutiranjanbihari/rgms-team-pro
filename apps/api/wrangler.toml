@@ -1,0 +1,12 @@
+name = "rgms-team-pro-api"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "rgms-team-pro"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+migrations_dir = "../../database/migrations"
+
+[vars]
+APP_ENV = "development"
